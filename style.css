@@ -159,14 +159,16 @@ section p {
 }
 
 
-.cargo {
+.cargodesign {
     color: var(--preto);
-    margin: 0 auto;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    display: flex;
-    align-items: start;
+    margin: 0 40.80em 0 0;
+    
 
+}
+
+.cargodev {
+    color: var(--preto);
+    margin: 0 30em 0 0;
 }
 
 .jobs {
