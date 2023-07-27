@@ -1,4 +1,6 @@
 ![images](https://github.com/gabswyl/7daysofcode/assets/129692053/9273508b-3d23-4a3f-a0a8-3c05cd41be3b)
+
+
 Desafio #7daysofcode da Alura 
 
 Desafio proposto utilizando somente HTML & CSS
