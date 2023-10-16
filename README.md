@@ -3,9 +3,9 @@
 
 <h1>Desafio #7daysofcode da Alura</h1>
 
-Desafio proposto utilizando somente HTML & CSS
+Desafio proposto utilizando somente HTML & CSS (Não contém responsividade)
 
 Criador: @gabswyl | Autora do desafio e designer: Gi Moeller
 
-
+[Projeto](https://7daysofcode-six.vercel.app/)
 Figma: https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?type=design&node-id=0-1&mode=design
